@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ticket-booking-service
+
+server:
+  context-path: /ticket-booking-service
+  port: 8080
